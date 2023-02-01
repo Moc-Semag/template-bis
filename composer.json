@@ -41,7 +41,9 @@
         "symfony/web-link": "6.2.*",
         "symfony/yaml": "6.2.*",
         "twig/extra-bundle": "^2.12|^3.0",
-        "twig/twig": "^2.12|^3.0"
+        "twig/twig": "^2.12|^3.0",
+        "wp-cli/mustangostang-spyc": "^0.6.3",
+        "wp-cli/php-cli-tools": "^0.11.17"
     },
     "config": {
         "allow-plugins": {
@@ -98,6 +100,7 @@
         "symfony/maker-bundle": "^1.0",
         "symfony/phpunit-bridge": "^6.2",
         "symfony/stopwatch": "6.2.*",
-        "symfony/web-profiler-bundle": "6.2.*"
+        "symfony/web-profiler-bundle": "6.2.*",
+        "symfony/webpack-encore-bundle": "^1.16"
     }
 }
